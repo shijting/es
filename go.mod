@@ -23,6 +23,7 @@ require (
 	github.com/olivere/elastic/v7 v7.0.15
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/rogpeppe/go-internal v1.6.0 // indirect
+	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/objx v0.2.0 // indirect
 	github.com/stretchr/testify v1.6.0 // indirect
 	github.com/yuin/goldmark v1.1.31 // indirect

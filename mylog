@@ -1,0 +1,6 @@
+time="2020-06-04T11:25:33+08:00" level=info msg="| 200 |    42.2213ms |          ::1 | GET | /search "
+time="2020-06-04T11:27:09+08:00" level=info msg="| 200 |   115.0072ms |          ::1 | GET | /search "
+time="2020-06-04T16:45:19+08:00" level=info duration=111 fields.level=info fields.msg= fields.time="2020-06-04 16:45:19.8105477 +0800 CST m=+234.524472301" ip="::1" method=GET status=200 url=/search
+time="2020-06-04T16:47:27+08:00" level=info duration=46 fields.level=info fields.msg= fields.time="2020-06-04 16:47:27.6955534 +0800 CST m=+362.409478001" ip="::1" method=GET status=200 url=/search
+time="2020-06-04T16:47:28+08:00" level=info duration=45 fields.level=info fields.msg= fields.time="2020-06-04 16:47:28.2362737 +0800 CST m=+362.950198301" ip="::1" method=GET status=200 url=/search
+time="2020-06-04T16:47:28+08:00" level=info duration=44 fields.level=info fields.msg= fields.time="2020-06-04 16:47:28.7945691 +0800 CST m=+363.508493701" ip="::1" method=GET status=200 url=/search
